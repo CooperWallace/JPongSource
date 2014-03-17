@@ -4,6 +4,7 @@ JPong
 This is the source code to JPong! 
 You can find the game here [JPong](https://github.com/rexysmexy/jpong, "JPong")
 
+The source requires the LibGDX Jars. You can either find them in the LibGDX Repository or in the Jar of JPong.
 
 
 
